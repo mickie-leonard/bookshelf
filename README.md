@@ -5,7 +5,7 @@
 - Demonstrate proficiency in architecture creation to suite client needs.
 
 ## Application Type
-- Flask front-end
+- Django front-end
 - Python back-end
 - AWS architecture
 
