@@ -4,7 +4,7 @@
 }
 
 .navbar {
-    background-color: lightslategray;
+    background-color: rgb(41, 108, 175);
     font-size: 1em;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
@@ -28,5 +28,5 @@
 
 .body-content {
     padding: 5px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:'Aquiline Two', Tahoma, Geneva, Verdana, sans-serif;
 }
